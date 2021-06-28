@@ -1,2 +1,1 @@
-# foo
-test repo use
+added by another person
